@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Saurav Singh",
+		"label": "Student",
+		"picture": "https://saurav8427.github.io/resources/img/Saurav_Singh.jpeg",
+		"email": "2018kucp1028@iiitkota.ac.in",
+		"website": "saurav8427.github.io",
+		"summary": "I am Athletic, Arts & Crafts obsessed and passionate about playing football and developing front end webpages.I started my Bachelor's degree in Technology in Computer Science & Engineering in 2018 from IIIT Kota.",
+		"location": {
+			"city": "Gwalior",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/saurav8427/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/saurav-singh-04b755199/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://instagram.com/iarnsauravsingh"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-04-08",
+		"endDate": "2022-06-15",
+		"gpa": "8.17",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "Best Athlete",
+		"awarder": "Inter IIIT Jabalpur 2020",
+		"date": "2020-03-03"
+	}],
+	
+	"skills": [{
+		"level": "Master",
+		"keywords": ["C/C++","Python","HTML", "CSS", "Javascript", "Git", "Jupyter Notebook"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Athletics", "Football"]
+	}],
+	"references": []
+}
